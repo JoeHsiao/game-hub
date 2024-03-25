@@ -1,4 +1,4 @@
-import { Flex, HStack, Image } from "@chakra-ui/react";
+import { Flex, Image } from "@chakra-ui/react";
 import logo from "../assets/480-360-sample.webp";
 import ColorModeSwitch from "./ColorModeSwitch";
 import SearchInput from "./SearchInput";
