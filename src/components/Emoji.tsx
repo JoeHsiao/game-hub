@@ -1,4 +1,3 @@
-import React from "react";
 import loved from "../assets/loved.png";
 import shocked from "../assets/shocked.png";
 import verified from "../assets/verified.png";
